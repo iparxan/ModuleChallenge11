@@ -6,11 +6,11 @@ Dana likes to provide a more in-depth analysis of UFO sightings by allowing user
 # Results
  People use search filter functions and  enter any of these four input categories inckluding city, date, state and country and shaper as well. For example, user wants to know the UFO in california regardless of cities. The she or he chooses the state filter section and enters "ca" then next table will change in which she or he can see all UFO information in the California.
  
- ![Alt]("/images/Ca-search-info.png")
+ ![Alt](/Ca-search-info.png)
  
  If we want to search by shape s of UFO regardless of all inofrmation. we will get this.
  
- ![Alt]("/images/search-triangle.png")
+ ![Alt](search-triangle.png)
 
  We also use multiple criteria for searching. If the data match in the database, we will get the data. if not table will be empty. There is no information in the table. 
  
